@@ -1,0 +1,334 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": ":books: Literature"
+    },
+    {
+      "description": "Tools are divided into their respective categories (by default, all tools are in user-mode):\nStart of the list:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🪟 | Al-khaser",
+          "description": "al-khaser is a PoC \"malware\" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-01T08:04:20Z",
+            "owner": "ayoubfaouzi",
+            "repo": "al-khaser",
+            "stars": 7086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | Pafish",
+          "description": "testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-06-21T08:49:44Z",
+            "owner": "a0rtega",
+            "repo": "pafish",
+            "stars": 3945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🐧🪟🍏 | VMAware",
+          "description": "Easy-to-use cross-platform C++ VM detection library and tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:51:50Z",
+            "owner": "NotRequiem",
+            "repo": "VMAware",
+            "stars": 1340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | GoDefender",
+          "description": "Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Go. Windows ONLY.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-12-10T18:30:21Z",
+            "owner": "KiExitDispatcher",
+            "repo": "GoDefender",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | antivmdetection",
+          "description": "Script to create templates to use with VirtualBox to make vm detection harder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-05T15:56:55Z",
+            "owner": "nsmfoo",
+            "repo": "antivmdetection",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🐧 | Hypervisor-Phantom",
+          "description": "Advanced malware analysis tool for evading detection from advanced malware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T15:57:17Z",
+            "owner": "Scrut1ny",
+            "repo": "AutoVirt",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | InviZzzible",
+          "description": "InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-31T10:36:44Z",
+            "owner": "CheckPointSW",
+            "repo": "InviZzzible",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💽🪟 | illusion-rs",
+          "description": "Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "specifically see Hypervisor detection",
+              "description": "section",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2026-05-14T01:30:00Z",
+                "owner": "memN0ps",
+                "repo": "illusion-rs",
+                "stars": 414
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-05-14T01:30:00Z",
+            "owner": "memN0ps",
+            "repo": "illusion-rs",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | VMDE",
+          "description": "Virtual Machines Detection Enhanced, source from VMDE paper, adapted to 2015.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2017-12-18T04:50:14Z",
+            "owner": "hfiref0x",
+            "repo": "VMDE",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | EPT Hook Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-22T11:18:10Z",
+            "owner": "momo5502",
+            "repo": "ept-hook-detection",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | Hypervision-Detection",
+          "description": "Detects virtual machines and malware analysis environments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-10-18T16:55:59Z",
+            "owner": "void-stack",
+            "repo": "Hypervisor-Detection",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🐧 | inside-vm",
+          "description": "Detect if code is running inside a virtual machine (x86 and x86-64 only).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-07-11T13:44:31Z",
+            "owner": "PicoJr",
+            "repo": "inside-vm",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | Anti-VM",
+          "description": "C++ Windows-based implementation of several anti-vm techniques used in malware development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-15T20:09:18Z",
+            "owner": "Print3M",
+            "repo": "Anti-VM",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🐧 | apate",
+          "description": "Apate performs anti-debugging, anti-VM and anti-sandbox tests, to see if your linux system is able to stay under the radar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-27T10:18:41Z",
+            "owner": "vim951",
+            "repo": "apate",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🪟 | PyDefender",
+          "description": "Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Python.",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "🐧🪟 | Metasploit",
+          "description": "Open-source penetration testing framework that includes virtual machine detection modules",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "metasploit-framework/modules/post/linux/gather/checkvm.rb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-12T14:23:44Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "metasploit-framework/modules/post/windows/gather/checkvm.rb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-12T14:23:44Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "metasploit-framework/scripts/meterpreter/winenum.rb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-12T14:23:44Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-12T14:23:44Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38795
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "🐧 | systemd-detect-virt (man page)",
+          "description": "detects execution in a virtualized environment. It identifies the virtualization technology and can distinguish full machine virtualization from container virtualization. exits with a return value of 0 (success) if a virtualization technology is detected, and non-zero (error) otherwise.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "See also code systemd/src/basic/virt.c",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-13T03:17:39Z",
+                "owner": "systemd",
+                "repo": "systemd",
+                "stars": 16587
+              }
+            }
+          ]
+        }
+      ],
+      "title": ":wrench: Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":jigsaw: Techniques"
+    },
+    {
+      "description": "Contributions are welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:03.672Z",
+    "original_repository": "zeishr/awesome-anti-virtualization",
+    "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
+    "enhanced_repository": "enhansome/enhansome-anti-virtualization",
+    "enhanced_repository_description": null,
+    "title": "Awesome Anti-Virtualization with stars"
+  }
+}
