@@ -19,7 +19,7 @@
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7087
+            "stars": 7089
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T06:34:30Z",
+            "last_commit": "2026-08-14T04:16:35Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1340
+            "stars": 1341
           }
         },
         {
@@ -76,20 +76,6 @@
             "owner": "nsmfoo",
             "repo": "antivmdetection",
             "stars": 777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🐧 | Hypervisor-Phantom",
-          "description": "Advanced malware analysis tool for evading detection from advanced malware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-08T15:57:17Z",
-            "owner": "Scrut1ny",
-            "repo": "AutoVirt",
-            "stars": 728
           }
         },
         {
@@ -221,6 +207,12 @@
         },
         {
           "node_type": "item",
+          "title": "🐧 | Hypervisor-Phantom",
+          "description": "Advanced malware analysis tool for evading detection from advanced malware.",
+          "children": []
+        },
+        {
+          "node_type": "item",
           "title": "🪟 | PyDefender",
           "description": "Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Python.",
           "children": []
@@ -238,10 +230,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-08-13T15:40:45Z",
+                "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38799
+                "stars": 38808
               }
             },
             {
@@ -252,10 +244,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-08-13T15:40:45Z",
+                "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38799
+                "stars": 38808
               }
             },
             {
@@ -266,10 +258,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-08-13T15:40:45Z",
+                "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38799
+                "stars": 38808
               }
             },
             {
@@ -280,10 +272,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-08-13T15:40:45Z",
+                "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38799
+                "stars": 38808
               }
             }
           ]
@@ -301,10 +293,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-13T15:35:59Z",
+                "last_commit": "2026-08-14T15:26:40Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16588
+                "stars": 16594
               }
             }
           ]
@@ -324,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:41:25.865Z",
+    "last_updated": "2026-08-14T15:36:33.124Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
     "enhanced_repository": "enhansome/enhansome-anti-virtualization",
