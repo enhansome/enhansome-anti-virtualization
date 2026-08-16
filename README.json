@@ -19,7 +19,7 @@
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7089
+            "stars": 7090
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T04:16:35Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-12-10T18:30:21Z",
             "owner": "KiExitDispatcher",
             "repo": "GoDefender",
-            "stars": 857
+            "stars": 856
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38810
+                "stars": 38815
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38810
+                "stars": 38815
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38810
+                "stars": 38815
               }
             },
             {
@@ -275,7 +275,7 @@
                 "last_commit": "2026-08-13T17:54:27Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38810
+                "stars": 38815
               }
             }
           ]
@@ -293,10 +293,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-15T13:45:26Z",
+                "last_commit": "2026-08-16T14:56:18Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16598
+                "stars": 16602
               }
             }
           ]
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:00:52.635Z",
+    "last_updated": "2026-08-16T15:01:09.545Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
     "enhanced_repository": "enhansome/enhansome-anti-virtualization",
