@@ -143,12 +143,12 @@ Start of the list:
 * 🚀🪟 | [hyperdetect.cc](https://gist.github.com/drew-gpf/d31840bebbbb1ff1d112a6f46e162c05): C++ code snippet that checks for a “lazy” hypervisor running in kernel-mode
 * 🪟 | [PyDefender](https://github.com/EvilBytecode/PyDefender/tree/main) : Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Python.
 * 🐧🪟 | [Metasploit](https://www.metasploit.com/) : Open-source penetration testing framework that includes virtual machine detection modules
-  * [metasploit-framework/modules/post/linux/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/linux/gather/checkvm.rb) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18
-  * [metasploit-framework/modules/post/windows/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/gather/checkvm.rb) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18
-  * [metasploit-framework/scripts/meterpreter/winenum.rb](https://github.com/rapid7/metasploit-framework/blob/master/scripts/meterpreter/winenum.rb#L182) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18
-  * [metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/netbios/nbname.rb#L92) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18
+  * [metasploit-framework/modules/post/linux/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/linux/gather/checkvm.rb) ⭐ 38,830 | 🐛 613 | 🌐 Ruby | 📅 2026-08-18
+  * [metasploit-framework/modules/post/windows/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/gather/checkvm.rb) ⭐ 38,830 | 🐛 613 | 🌐 Ruby | 📅 2026-08-18
+  * [metasploit-framework/scripts/meterpreter/winenum.rb](https://github.com/rapid7/metasploit-framework/blob/master/scripts/meterpreter/winenum.rb#L182) ⭐ 38,830 | 🐛 613 | 🌐 Ruby | 📅 2026-08-18
+  * [metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/netbios/nbname.rb#L92) ⭐ 38,830 | 🐛 613 | 🌐 Ruby | 📅 2026-08-18
 * 🐧 | [systemd-detect-virt (man page)](https://www.freedesktop.org/software/systemd/man/latest/systemd-detect-virt.html) : `systemd-detect-virt` detects execution in a virtualized environment. It identifies the virtualization technology and can distinguish full machine virtualization from container virtualization. `systemd-detect-virt` exits with a return value of 0 (success) if a virtualization technology is detected, and non-zero (error) otherwise.
-  * See also `systemd` code [systemd/src/basic/virt.c](https://github.com/systemd/systemd/blob/main/src/basic/virt.c#L24) ⭐ 16,607 | 🐛 3,375 | 🌐 C | 📅 2026-08-19
+  * See also `systemd` code [systemd/src/basic/virt.c](https://github.com/systemd/systemd/blob/main/src/basic/virt.c#L24) ⭐ 16,607 | 🐛 3,376 | 🌐 C | 📅 2026-08-19
 
 <p align="center"><a href="#contents"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 

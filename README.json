@@ -295,7 +295,7 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-19T11:03:30Z",
+                "last_commit": "2026-08-19T13:58:22Z",
                 "owner": "systemd",
                 "repo": "systemd",
                 "stars": 16607
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:47.212Z",
+    "last_updated": "2026-08-19T15:14:13.982Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_id": 927934726,
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
