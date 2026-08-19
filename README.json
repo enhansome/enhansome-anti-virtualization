@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": ":books: Literature"
-    },
-    {
       "description": "Tools are divided into their respective categories (by default, all tools are in user-mode):\nStart of the list:",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46072655,
             "language": "C++",
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7095
+            "stars": 7097
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4849630,
             "language": "C",
             "last_commit": "2024-06-21T08:49:44Z",
             "owner": "a0rtega",
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-18T09:09:47Z",
+            "last_commit": "2026-08-19T08:45:29Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1352
+            "stars": 1353
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 810140137,
             "language": "Go",
             "last_commit": "2025-12-10T18:30:21Z",
             "owner": "KiExitDispatcher",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31769767,
             "language": "Python",
             "last_commit": "2022-11-05T15:56:55Z",
             "owner": "nsmfoo",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60847906,
             "language": "C++",
             "last_commit": "2026-03-31T10:36:44Z",
             "owner": "CheckPointSW",
@@ -104,6 +105,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 723886822,
                 "language": "Rust",
                 "last_commit": "2026-05-14T01:30:00Z",
                 "owner": "memN0ps",
@@ -114,6 +116,7 @@
           ],
           "repo_info": {
             "archived": true,
+            "id": 723886822,
             "language": "Rust",
             "last_commit": "2026-05-14T01:30:00Z",
             "owner": "memN0ps",
@@ -128,6 +131,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32446077,
             "language": "C",
             "last_commit": "2017-12-18T04:50:14Z",
             "owner": "hfiref0x",
@@ -142,6 +146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486301208,
             "language": "C++",
             "last_commit": "2026-02-22T11:18:10Z",
             "owner": "momo5502",
@@ -156,11 +161,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553702732,
             "language": "C++",
             "last_commit": "2022-10-18T16:55:59Z",
             "owner": "void-stack",
             "repo": "Hypervisor-Detection",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -170,6 +176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384418998,
             "language": "Rust",
             "last_commit": "2021-07-11T13:44:31Z",
             "owner": "PicoJr",
@@ -184,6 +191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692207905,
             "language": "C++",
             "last_commit": "2023-09-15T20:09:18Z",
             "owner": "Print3M",
@@ -198,24 +206,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368818703,
             "language": "C",
             "last_commit": "2022-04-27T10:18:41Z",
             "owner": "vim951",
             "repo": "apate",
             "stars": 13
           }
-        },
-        {
-          "node_type": "item",
-          "title": "🐧 | Hypervisor-Phantom",
-          "description": "Advanced malware analysis tool for evading detection from advanced malware.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "🪟 | PyDefender",
-          "description": "Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Python.",
-          "children": []
         },
         {
           "node_type": "group",
@@ -229,11 +226,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T14:54:51Z",
+                "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38826
+                "stars": 38830
               }
             },
             {
@@ -243,11 +241,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T14:54:51Z",
+                "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38826
+                "stars": 38830
               }
             },
             {
@@ -257,11 +256,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T14:54:51Z",
+                "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38826
+                "stars": 38830
               }
             },
             {
@@ -271,11 +271,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T14:54:51Z",
+                "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38826
+                "stars": 38830
               }
             }
           ]
@@ -292,8 +293,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-18T14:55:02Z",
+                "last_commit": "2026-08-19T11:03:30Z",
                 "owner": "systemd",
                 "repo": "systemd",
                 "stars": 16607
@@ -303,21 +305,12 @@
         }
       ],
       "title": ":wrench: Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":jigsaw: Techniques"
-    },
-    {
-      "description": "Contributions are welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:14:19.663Z",
+    "last_updated": "2026-08-19T12:16:47.212Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
+    "original_repository_id": 927934726,
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
     "enhanced_repository": "enhansome/enhansome-anti-virtualization",
     "enhanced_repository_description": null,
