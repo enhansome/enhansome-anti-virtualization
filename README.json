@@ -15,7 +15,7 @@
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7097
+            "stars": 7098
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-21T08:49:44Z",
             "owner": "a0rtega",
             "repo": "pafish",
-            "stars": 3944
+            "stars": 3943
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-19T08:45:29Z",
+            "last_commit": "2026-08-19T23:28:33Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1353
+            "stars": 1354
           }
         },
         {
@@ -231,7 +231,7 @@
                 "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38830
+                "stars": 38832
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38830
+                "stars": 38832
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38830
+                "stars": 38832
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-18T15:21:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38830
+                "stars": 38832
               }
             }
           ]
@@ -295,10 +295,10 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-19T13:58:22Z",
+                "last_commit": "2026-08-20T14:57:57Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16607
+                "stars": 16611
               }
             }
           ]
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:14:13.982Z",
+    "last_updated": "2026-08-20T15:18:06.549Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_id": 927934726,
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
