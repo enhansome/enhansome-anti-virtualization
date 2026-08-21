@@ -15,7 +15,7 @@
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7098
+            "stars": 7097
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-21T08:49:44Z",
             "owner": "a0rtega",
             "repo": "pafish",
-            "stars": 3943
+            "stars": 3942
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-19T23:28:33Z",
+            "last_commit": "2026-08-20T21:15:29Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1354
@@ -228,10 +228,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T15:21:12Z",
+                "last_commit": "2026-08-21T12:02:00Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38832
+                "stars": 38834
               }
             },
             {
@@ -243,10 +243,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T15:21:12Z",
+                "last_commit": "2026-08-21T12:02:00Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38832
+                "stars": 38834
               }
             },
             {
@@ -258,10 +258,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T15:21:12Z",
+                "last_commit": "2026-08-21T12:02:00Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38832
+                "stars": 38834
               }
             },
             {
@@ -273,10 +273,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-18T15:21:12Z",
+                "last_commit": "2026-08-21T12:02:00Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38832
+                "stars": 38834
               }
             }
           ]
@@ -295,10 +295,10 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-20T14:57:57Z",
+                "last_commit": "2026-08-21T14:48:03Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16611
+                "stars": 16615
               }
             }
           ]
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:18:06.549Z",
+    "last_updated": "2026-08-21T15:16:27.376Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_id": 927934726,
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
