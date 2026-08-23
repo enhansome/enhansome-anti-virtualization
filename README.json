@@ -42,10 +42,10 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-22T14:17:29Z",
+            "last_commit": "2026-08-23T08:05:33Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1355
+            "stars": 1357
           }
         },
         {
@@ -110,7 +110,7 @@
                 "last_commit": "2026-05-14T01:30:00Z",
                 "owner": "memN0ps",
                 "repo": "illusion-rs",
-                "stars": 413
+                "stars": 412
               }
             }
           ],
@@ -121,7 +121,7 @@
             "last_commit": "2026-05-14T01:30:00Z",
             "owner": "memN0ps",
             "repo": "illusion-rs",
-            "stars": 413
+            "stars": 412
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-02-22T11:18:10Z",
             "owner": "momo5502",
             "repo": "ept-hook-detection",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -231,7 +231,7 @@
                 "last_commit": "2026-08-21T22:52:09Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38838
+                "stars": 38848
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-08-21T22:52:09Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38838
+                "stars": 38848
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-21T22:52:09Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38838
+                "stars": 38848
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-21T22:52:09Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38838
+                "stars": 38848
               }
             }
           ]
@@ -295,10 +295,10 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-22T14:49:17Z",
+                "last_commit": "2026-08-23T14:14:37Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16616
+                "stars": 16618
               }
             }
           ]
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:00:33.163Z",
+    "last_updated": "2026-08-23T15:02:03.527Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_id": 927934726,
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
