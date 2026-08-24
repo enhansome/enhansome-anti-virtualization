@@ -300,10 +300,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:39:59Z",
+                "last_commit": "2026-08-24T15:16:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38861
+                "stars": 38863
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:39:59Z",
+                "last_commit": "2026-08-24T15:16:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38861
+                "stars": 38863
               }
             },
             {
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:39:59Z",
+                "last_commit": "2026-08-24T15:16:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38861
+                "stars": 38863
               }
             },
             {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:39:59Z",
+                "last_commit": "2026-08-24T15:16:12Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38861
+                "stars": 38863
               }
             }
           ]
@@ -367,7 +367,7 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-24T14:28:44Z",
+                "last_commit": "2026-08-24T15:22:22Z",
                 "owner": "systemd",
                 "repo": "systemd",
                 "stars": 16624
@@ -2096,7 +2096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:41.240Z",
+    "last_updated": "2026-08-24T15:24:10.824Z",
     "original_repository": "zeishr/awesome-anti-virtualization",
     "original_repository_id": 927934726,
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
