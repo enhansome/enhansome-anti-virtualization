@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-22T11:18:10Z",
                 "owner": "momo5502",
                 "repo": "ept-hook-detection",
-                "stars": 157
+                "stars": 158
               }
             }
           ],
@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 682289450,
                 "language": "C++",
-                "last_commit": "2026-08-25T15:21:22Z",
+                "last_commit": "2026-08-27T01:52:01Z",
                 "owner": "NotRequiem",
                 "repo": "VMAware",
                 "stars": 1364
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7107
+            "stars": 7109
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -223,7 +223,7 @@
             "last_commit": "2026-02-22T11:18:10Z",
             "owner": "momo5502",
             "repo": "ept-hook-detection",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2022-10-18T16:55:59Z",
             "owner": "void-stack",
             "repo": "Hypervisor-Detection",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -300,10 +300,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T16:03:11Z",
+                "last_commit": "2026-08-27T11:21:04Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38880
+                "stars": 38891
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T16:03:11Z",
+                "last_commit": "2026-08-27T11:21:04Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38880
+                "stars": 38891
               }
             },
             {
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T16:03:11Z",
+                "last_commit": "2026-08-27T11:21:04Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38880
+                "stars": 38891
               }
             },
             {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T16:03:11Z",
+                "last_commit": "2026-08-27T11:21:04Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38880
+                "stars": 38891
               }
             }
           ]
@@ -367,10 +367,10 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:16Z",
+                "last_commit": "2026-08-27T11:20:48Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16630
+                "stars": 16634
               }
             }
           ]
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -480,7 +480,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -495,7 +495,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -510,7 +510,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -540,7 +540,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -555,7 +555,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -645,7 +645,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -660,7 +660,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -675,7 +675,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -735,7 +735,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -750,7 +750,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -765,7 +765,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -780,7 +780,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -795,7 +795,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -810,7 +810,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -825,7 +825,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -855,7 +855,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -870,7 +870,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -885,7 +885,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -900,7 +900,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -930,7 +930,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -960,7 +960,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -975,7 +975,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -990,7 +990,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1005,7 +1005,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1020,7 +1020,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1035,7 +1035,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1050,7 +1050,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1065,7 +1065,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1080,7 +1080,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1095,7 +1095,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1110,7 +1110,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1125,7 +1125,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1140,7 +1140,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1155,7 +1155,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1170,7 +1170,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1185,7 +1185,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1200,7 +1200,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1215,7 +1215,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1230,7 +1230,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1245,7 +1245,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1260,7 +1260,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1275,7 +1275,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1290,7 +1290,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1305,7 +1305,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1320,7 +1320,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1335,7 +1335,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1350,7 +1350,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1365,7 +1365,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1380,7 +1380,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1395,7 +1395,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1410,7 +1410,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1425,7 +1425,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1440,7 +1440,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1455,7 +1455,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1470,7 +1470,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1485,7 +1485,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1500,7 +1500,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1515,7 +1515,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1530,7 +1530,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1545,7 +1545,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1560,7 +1560,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1575,7 +1575,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1590,7 +1590,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1605,7 +1605,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1620,7 +1620,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1635,7 +1635,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1650,7 +1650,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1665,7 +1665,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1695,7 +1695,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1710,7 +1710,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1725,7 +1725,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1740,7 +1740,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1755,7 +1755,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1770,7 +1770,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1785,7 +1785,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1800,7 +1800,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1815,7 +1815,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1830,7 +1830,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1845,7 +1845,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1860,7 +1860,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1875,7 +1875,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1890,7 +1890,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1905,7 +1905,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1920,7 +1920,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1935,7 +1935,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1950,7 +1950,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1965,7 +1965,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1980,7 +1980,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -1995,7 +1995,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2010,7 +2010,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2025,7 +2025,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2040,7 +2040,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2055,7 +2055,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2070,7 +2070,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2085,7 +2085,7 @@
             "archived": false,
             "id": 682289450,
             "language": "C++",
-            "last_commit": "2026-08-25T15:21:22Z",
+            "last_commit": "2026-08-27T01:52:01Z",
             "owner": "NotRequiem",
             "repo": "VMAware",
             "stars": 1364
@@ -2096,9 +2096,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:05:54.134Z",
-    "original_repository": "zeishr/awesome-anti-virtualization",
-    "original_repository_id": 927934726,
+    "last_updated": "2026-08-27T11:21:15.304Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 927934726,
+      "language": null,
+      "last_commit": "2025-07-15T13:59:37Z",
+      "owner": "zeishr",
+      "repo": "awesome-anti-virtualization",
+      "stars": 92
+    },
     "original_repository_sha": "01fd286ee700906d4889b4a927bb204e862b83f7",
     "enhanced_repository": "enhansome/enhansome-anti-virtualization",
     "enhanced_repository_description": null,
