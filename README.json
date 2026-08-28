@@ -87,7 +87,7 @@
             "last_commit": "2026-07-01T08:04:20Z",
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7109
+            "stars": 7110
           }
         },
         {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-05-14T01:30:00Z",
                 "owner": "memN0ps",
                 "repo": "illusion-rs",
-                "stars": 412
+                "stars": 411
               }
             }
           ],
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-14T01:30:00Z",
             "owner": "memN0ps",
             "repo": "illusion-rs",
-            "stars": 412
+            "stars": 411
           }
         },
         {
@@ -300,10 +300,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:21:04Z",
+                "last_commit": "2026-08-27T20:53:58Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38891
+                "stars": 38896
               }
             },
             {
@@ -315,10 +315,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:21:04Z",
+                "last_commit": "2026-08-27T20:53:58Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38891
+                "stars": 38896
               }
             },
             {
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:21:04Z",
+                "last_commit": "2026-08-27T20:53:58Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38891
+                "stars": 38896
               }
             },
             {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T11:21:04Z",
+                "last_commit": "2026-08-27T20:53:58Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38891
+                "stars": 38896
               }
             }
           ]
@@ -367,7 +367,7 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-27T11:20:48Z",
+                "last_commit": "2026-08-27T22:19:50Z",
                 "owner": "systemd",
                 "repo": "systemd",
                 "stars": 16634
@@ -2096,7 +2096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:15.304Z",
+    "last_updated": "2026-08-28T00:03:02.328Z",
     "original_repository_info": {
       "archived": false,
       "id": 927934726,
