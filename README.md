@@ -125,7 +125,7 @@ Tools are divided into their respective categories (by default, all tools are in
 
 Start of the list:
 
-* 🪟 | [Al-khaser](https://github.com/ayoubfaouzi/al-khaser) ⭐ 7,129 | 🐛 42 | 🌐 C++ | 📅 2026-07-01 : al-khaser is a PoC "malware" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.
+* 🪟 | [Al-khaser](https://github.com/ayoubfaouzi/al-khaser) ⭐ 7,134 | 🐛 42 | 🌐 C++ | 📅 2026-07-01 : al-khaser is a PoC "malware" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.
 * 🪟 | [Pafish](https://github.com/a0rtega/pafish) ⚠️ Archived : testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do.
 * 🐧🪟🍏 | [VMAware](https://github.com/kernelwernel/VMAware) ⭐ 1,396 | 🐛 0 | 🌐 C++ | 📅 2026-09-16 : Easy-to-use cross-platform C++ VM detection library and tool
 * 🪟 | [GoDefender](https://github.com/EvilBytecode/GoDefender/) ⚠️ Archived : Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Go. Windows ONLY.
@@ -134,8 +134,8 @@ Start of the list:
 * 💽🪟 | [illusion-rs](https://github.com/memN0ps/illusion-rs) ⚠️ Archived : Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)
   * specifically see [Hypervisor detection](https://github.com/memN0ps/illusion-rs?tab=readme-ov-file#hypervisor-detection) ⚠️ Archived section
 * 🪟 | [VMDE](https://github.com/hfiref0x/VMDE) ⚠️ Archived : Virtual Machines Detection Enhanced, source from VMDE paper, adapted to 2015.
+* 🪟 | [Hypervision-Detection](https://github.com/void-stack/Hypervisor-Detection) ⭐ 157 | 🐛 0 | 🌐 C++ | 📅 2022-10-18 : Detects virtual machines and malware analysis environments
 * 🪟 | [EPT Hook Detection](https://github.com/momo5502/ept-hook-detection) ⭐ 157 | 🐛 0 | 🌐 C++ | 📅 2026-02-22
-* 🪟 | [Hypervision-Detection](https://github.com/void-stack/Hypervisor-Detection) ⭐ 156 | 🐛 0 | 🌐 C++ | 📅 2022-10-18 : Detects virtual machines and malware analysis environments
 * 🐧 | [inside-vm](https://github.com/PicoJr/inside-vm) ⭐ 49 | 🐛 0 | 🌐 Rust | 📅 2021-07-11 : Detect if code is running inside a virtual machine (x86 and x86-64 only).
 * 🪟 | [Anti-VM](https://github.com/Print3M/Anti-VM) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2023-09-15 : C++ Windows-based implementation of several anti-vm techniques used in malware development.
 * 🐧 | [apate](https://github.com/vim951/apate) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2022-04-27 : Apate performs anti-debugging, anti-VM and anti-sandbox tests, to see if your linux system is able to stay under the radar.
@@ -143,12 +143,12 @@ Start of the list:
 * 🚀🪟 | [hyperdetect.cc](https://gist.github.com/drew-gpf/d31840bebbbb1ff1d112a6f46e162c05): C++ code snippet that checks for a “lazy” hypervisor running in kernel-mode
 * 🪟 | [PyDefender](https://github.com/EvilBytecode/PyDefender/tree/main) : Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Python.
 * 🐧🪟 | [Metasploit](https://www.metasploit.com/) : Open-source penetration testing framework that includes virtual machine detection modules
-  * [metasploit-framework/modules/post/linux/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/linux/gather/checkvm.rb) ⭐ 39,019 | 🐛 603 | 🌐 Ruby | 📅 2026-09-17
-  * [metasploit-framework/modules/post/windows/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/gather/checkvm.rb) ⭐ 39,019 | 🐛 603 | 🌐 Ruby | 📅 2026-09-17
-  * [metasploit-framework/scripts/meterpreter/winenum.rb](https://github.com/rapid7/metasploit-framework/blob/master/scripts/meterpreter/winenum.rb#L182) ⭐ 39,019 | 🐛 603 | 🌐 Ruby | 📅 2026-09-17
-  * [metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/netbios/nbname.rb#L92) ⭐ 39,019 | 🐛 603 | 🌐 Ruby | 📅 2026-09-17
+  * [metasploit-framework/modules/post/linux/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/linux/gather/checkvm.rb) ⭐ 39,024 | 🐛 606 | 🌐 Ruby | 📅 2026-09-17
+  * [metasploit-framework/modules/post/windows/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/gather/checkvm.rb) ⭐ 39,024 | 🐛 606 | 🌐 Ruby | 📅 2026-09-17
+  * [metasploit-framework/scripts/meterpreter/winenum.rb](https://github.com/rapid7/metasploit-framework/blob/master/scripts/meterpreter/winenum.rb#L182) ⭐ 39,024 | 🐛 606 | 🌐 Ruby | 📅 2026-09-17
+  * [metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/netbios/nbname.rb#L92) ⭐ 39,024 | 🐛 606 | 🌐 Ruby | 📅 2026-09-17
 * 🐧 | [systemd-detect-virt (man page)](https://www.freedesktop.org/software/systemd/man/latest/systemd-detect-virt.html) : `systemd-detect-virt` detects execution in a virtualized environment. It identifies the virtualization technology and can distinguish full machine virtualization from container virtualization. `systemd-detect-virt` exits with a return value of 0 (success) if a virtualization technology is detected, and non-zero (error) otherwise.
-  * See also `systemd` code [systemd/src/basic/virt.c](https://github.com/systemd/systemd/blob/main/src/basic/virt.c#L24) ⭐ 16,703 | 🐛 3,463 | 🌐 C | 📅 2026-09-17
+  * See also `systemd` code [systemd/src/basic/virt.c](https://github.com/systemd/systemd/blob/main/src/basic/virt.c#L24) ⭐ 16,703 | 🐛 3,470 | 🌐 C | 📅 2026-09-18
 
 <p align="center"><a href="#contents"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -279,4 +279,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
