@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "momo5502",
                 "repo": "ept-hook-detection",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:22.965Z"
@@ -130,7 +130,7 @@
             "open_issues": 42,
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7138,
+            "stars": 7139,
             "topics": [
               "anti-analysis",
               "anti-debugging",
@@ -397,6 +397,27 @@
         },
         {
           "node_type": "item",
+          "title": "🪟 | EPT Hook Detection",
+          "description": "momo5502/ept-hook-detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🪝 Various EPT hook detection approaches",
+            "homepage": null,
+            "id": 486301208,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-02-22T11:18:10Z",
+            "open_issues": 0,
+            "owner": "momo5502",
+            "repo": "ept-hook-detection",
+            "stars": 159,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:22.965Z"
+        },
+        {
+          "node_type": "item",
           "title": "🪟 | Hypervision-Detection",
           "description": "Detects virtual machines and malware analysis environments",
           "children": [],
@@ -423,27 +444,6 @@
               "virtualbox",
               "vmware"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:22.965Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🪟 | EPT Hook Detection",
-          "description": "momo5502/ept-hook-detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🪝 Various EPT hook detection approaches",
-            "homepage": null,
-            "id": 486301208,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-02-22T11:18:10Z",
-            "open_issues": 0,
-            "owner": "momo5502",
-            "repo": "ept-hook-detection",
-            "stars": 158,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:22.965Z"
         },
@@ -545,10 +545,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T13:19:47Z",
-                "open_issues": 612,
+                "open_issues": 616,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39080,
+                "stars": 39090,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -568,10 +568,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T13:19:47Z",
-                "open_issues": 612,
+                "open_issues": 616,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39080,
+                "stars": 39090,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -591,10 +591,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T13:19:47Z",
-                "open_issues": 612,
+                "open_issues": 616,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39080,
+                "stars": 39090,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -614,10 +614,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T13:19:47Z",
-                "open_issues": 612,
+                "open_issues": 616,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39080,
+                "stars": 39090,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -643,11 +643,11 @@
                 "id": 32873313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T17:20:41Z",
-                "open_issues": 3529,
+                "last_commit": "2026-10-04T17:57:31Z",
+                "open_issues": 3532,
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16776,
+                "stars": 16780,
                 "topics": [
                   "c",
                   "init",
@@ -5460,7 +5460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:17:32.282Z",
+    "last_updated": "2026-10-04T18:24:09.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to anti virtualization techniques",
