@@ -130,7 +130,7 @@
             "open_issues": 42,
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7160,
+            "stars": 7161,
             "topics": [
               "anti-analysis",
               "anti-debugging",
@@ -163,7 +163,7 @@
             "open_issues": 3,
             "owner": "a0rtega",
             "repo": "pafish",
-            "stars": 3943,
+            "stars": 3941,
             "topics": [
               "analysis-environments",
               "malware",
@@ -548,7 +548,7 @@
                 "open_issues": 606,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39160,
+                "stars": 39176,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -571,7 +571,7 @@
                 "open_issues": 606,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39160,
+                "stars": 39176,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -594,7 +594,7 @@
                 "open_issues": 606,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39160,
+                "stars": 39176,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -617,7 +617,7 @@
                 "open_issues": 606,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39160,
+                "stars": 39176,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -643,11 +643,11 @@
                 "id": 32873313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-17T16:29:07Z",
-                "open_issues": 3560,
+                "last_commit": "2026-10-18T15:22:57Z",
+                "open_issues": 3567,
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16846,
+                "stars": 16847,
                 "topics": [
                   "c",
                   "init",
@@ -5460,7 +5460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:33:16.519Z",
+    "last_updated": "2026-10-18T17:34:05.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to anti virtualization techniques",
