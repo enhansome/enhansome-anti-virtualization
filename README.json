@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "NotRequiem",
                 "repo": "VMAware",
-                "stars": 1503,
+                "stars": 1506,
                 "topics": [
                   "anti",
                   "anti-vm",
@@ -130,7 +130,7 @@
             "open_issues": 43,
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7177,
+            "stars": 7179,
             "topics": [
               "anti-analysis",
               "anti-debugging",
@@ -163,7 +163,7 @@
             "open_issues": 3,
             "owner": "a0rtega",
             "repo": "pafish",
-            "stars": 3945,
+            "stars": 3948,
             "topics": [
               "analysis-environments",
               "malware",
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -266,7 +266,7 @@
             "open_issues": 11,
             "owner": "nsmfoo",
             "repo": "antivmdetection",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "antivm",
               "malware-analysis",
@@ -275,6 +275,43 @@
             ]
           },
           "first_seen": "2026-08-28T23:43:22.965Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🐧 | Hypervisor-Phantom",
+          "description": "Advanced malware analysis tool for evading detection from advanced malware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automated Linux virtualization scripts",
+            "homepage": null,
+            "id": 693519510,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-28T20:02:30Z",
+            "open_issues": 9,
+            "owner": "Scrut1ny",
+            "repo": "AutoVirt",
+            "stars": 726,
+            "topics": [
+              "automation",
+              "edk2",
+              "emulator",
+              "firmware",
+              "gpu-passthrough",
+              "hypervisor",
+              "kernel",
+              "kvm",
+              "libvirt",
+              "linux",
+              "ovmf",
+              "qemu",
+              "vfio",
+              "virtual-machine",
+              "xml"
+            ]
+          },
+          "first_seen": "2026-11-10T21:02:05.954Z"
         },
         {
           "node_type": "item",
@@ -292,7 +329,7 @@
             "open_issues": 2,
             "owner": "CheckPointSW",
             "repo": "InviZzzible",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "evasion",
               "malware",
@@ -322,7 +359,7 @@
                 "open_issues": 0,
                 "owner": "memN0ps",
                 "repo": "illusion-rs",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "blue-pill",
                   "bootkit",
@@ -351,7 +388,7 @@
             "open_issues": 0,
             "owner": "memN0ps",
             "repo": "illusion-rs",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "blue-pill",
               "bootkit",
@@ -544,11 +581,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T19:01:49Z",
-                "open_issues": 608,
+                "last_commit": "2026-11-10T16:53:00Z",
+                "open_issues": 610,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39343,
+                "stars": 39397,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -567,11 +604,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T19:01:49Z",
-                "open_issues": 608,
+                "last_commit": "2026-11-10T16:53:00Z",
+                "open_issues": 610,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39343,
+                "stars": 39397,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -590,11 +627,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T19:01:49Z",
-                "open_issues": 608,
+                "last_commit": "2026-11-10T16:53:00Z",
+                "open_issues": 610,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39343,
+                "stars": 39397,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -613,11 +650,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T19:01:49Z",
-                "open_issues": 608,
+                "last_commit": "2026-11-10T16:53:00Z",
+                "open_issues": 610,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39343,
+                "stars": 39397,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -643,11 +680,11 @@
                 "id": 32873313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-09T23:06:36Z",
-                "open_issues": 3417,
+                "last_commit": "2026-11-10T20:37:43Z",
+                "open_issues": 3414,
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 17017,
+                "stars": 17022,
                 "topics": [
                   "c",
                   "init",
@@ -683,7 +720,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -725,7 +762,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -767,7 +804,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -809,7 +846,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -851,7 +888,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -893,7 +930,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -935,7 +972,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -977,7 +1014,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1019,7 +1056,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1061,7 +1098,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1103,7 +1140,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1145,7 +1182,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1187,7 +1224,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1229,7 +1266,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1271,7 +1308,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1313,7 +1350,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1355,7 +1392,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1397,7 +1434,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1439,7 +1476,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1481,7 +1518,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1523,7 +1560,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1565,7 +1602,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1607,7 +1644,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1649,7 +1686,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1691,7 +1728,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1733,7 +1770,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1775,7 +1812,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1817,7 +1854,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1859,7 +1896,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1901,7 +1938,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1943,7 +1980,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -1985,7 +2022,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2027,7 +2064,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2069,7 +2106,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2111,7 +2148,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2153,7 +2190,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2195,7 +2232,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2237,7 +2274,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2279,7 +2316,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2321,7 +2358,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2363,7 +2400,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2405,7 +2442,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2447,7 +2484,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2489,7 +2526,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2531,7 +2568,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2573,7 +2610,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2615,7 +2652,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2657,7 +2694,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2699,7 +2736,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2741,7 +2778,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2783,7 +2820,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2825,7 +2862,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2867,7 +2904,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2909,7 +2946,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2951,7 +2988,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -2993,7 +3030,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3035,7 +3072,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3077,7 +3114,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3119,7 +3156,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3161,7 +3198,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3203,7 +3240,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3245,7 +3282,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3287,7 +3324,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3329,7 +3366,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3371,7 +3408,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3413,7 +3450,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3455,7 +3492,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3497,7 +3534,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3539,7 +3576,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3581,7 +3618,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3623,7 +3660,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3665,7 +3702,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3707,7 +3744,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3749,7 +3786,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3791,7 +3828,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3833,7 +3870,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3875,7 +3912,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3917,7 +3954,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -3959,7 +3996,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4001,7 +4038,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4043,7 +4080,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4085,7 +4122,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4127,7 +4164,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4169,7 +4206,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4211,7 +4248,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4253,7 +4290,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4295,7 +4332,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4337,7 +4374,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4379,7 +4416,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4421,7 +4458,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4463,7 +4500,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4505,7 +4542,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4547,7 +4584,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4589,7 +4626,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4631,7 +4668,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4673,7 +4710,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4715,7 +4752,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4757,7 +4794,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4799,7 +4836,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4841,7 +4878,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4883,7 +4920,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4925,7 +4962,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -4967,7 +5004,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5009,7 +5046,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5051,7 +5088,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5093,7 +5130,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5135,7 +5172,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5177,7 +5214,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5219,7 +5256,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5261,7 +5298,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5303,7 +5340,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5345,7 +5382,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5387,7 +5424,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5429,7 +5466,7 @@
             "open_issues": 0,
             "owner": "NotRequiem",
             "repo": "VMAware",
-            "stars": 1503,
+            "stars": 1506,
             "topics": [
               "anti",
               "anti-vm",
@@ -5460,7 +5497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:36:35.694Z",
+    "last_updated": "2026-11-10T21:02:05.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to anti virtualization techniques",
