@@ -125,12 +125,12 @@ Tools are divided into their respective categories (by default, all tools are in
 
 Start of the list:
 
-* 🪟 | [Al-khaser](https://github.com/ayoubfaouzi/al-khaser) ⭐ 7,182 | 🐛 42 | 🌐 C++ | 📅 2026-11-11 : al-khaser is a PoC "malware" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.
+* 🪟 | [Al-khaser](https://github.com/ayoubfaouzi/al-khaser) ⭐ 7,183 | 🐛 42 | 🌐 C++ | 📅 2026-11-11 : al-khaser is a PoC "malware" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.
 * 🪟 | [Pafish](https://github.com/a0rtega/pafish) ⚠️ Archived : testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do.
 * 🐧🪟🍏 | [VMAware](https://github.com/kernelwernel/VMAware) ⭐ 1,511 | 🐛 0 | 🌐 C++ | 📅 2026-11-11 : Easy-to-use cross-platform C++ VM detection library and tool
 * 🪟 | [GoDefender](https://github.com/EvilBytecode/GoDefender/) ⚠️ Archived : Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Go. Windows ONLY.
 * 🪟 | [antivmdetection](https://github.com/nsmfoo/antivmdetection) ⭐ 782 | 🐛 11 | 🌐 Python | 📅 2022-11-05 : Script to create templates to use with VirtualBox to make vm detection harder
-* 🐧 | [Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) ⭐ 727 | 🐛 9 | 🌐 Shell | 📅 2026-11-11 : Advanced malware analysis tool for evading detection from advanced malware.
+* 🐧 | [Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) ⭐ 728 | 🐛 9 | 🌐 Shell | 📅 2026-11-11 : Advanced malware analysis tool for evading detection from advanced malware.
 * 🪟 | [InviZzzible](https://github.com/CheckPointSW/InviZzzible) ⭐ 588 | 🐛 2 | 🌐 C++ | 📅 2026-03-31 : InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.
 * 💽🪟 | [illusion-rs](https://github.com/memN0ps/illusion-rs) ⚠️ Archived : Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)
   * specifically see [Hypervisor detection](https://github.com/memN0ps/illusion-rs?tab=readme-ov-file#hypervisor-detection) ⚠️ Archived section
@@ -143,12 +143,12 @@ Start of the list:
 * 🚀🪟 | [hyperdetect.cc](https://gist.github.com/drew-gpf/d31840bebbbb1ff1d112a6f46e162c05): C++ code snippet that checks for a “lazy” hypervisor running in kernel-mode
 * 🪟 | [PyDefender](https://github.com/EvilBytecode/PyDefender/tree/main) : Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package for Python.
 * 🐧🪟 | [Metasploit](https://www.metasploit.com/) : Open-source penetration testing framework that includes virtual machine detection modules
-  * [metasploit-framework/modules/post/linux/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/linux/gather/checkvm.rb) ⭐ 39,576 | 🐛 606 | 🌐 Ruby | 📅 2026-11-13
-  * [metasploit-framework/modules/post/windows/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/gather/checkvm.rb) ⭐ 39,576 | 🐛 606 | 🌐 Ruby | 📅 2026-11-13
-  * [metasploit-framework/scripts/meterpreter/winenum.rb](https://github.com/rapid7/metasploit-framework/blob/master/scripts/meterpreter/winenum.rb#L182) ⭐ 39,576 | 🐛 606 | 🌐 Ruby | 📅 2026-11-13
-  * [metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/netbios/nbname.rb#L92) ⭐ 39,576 | 🐛 606 | 🌐 Ruby | 📅 2026-11-13
+  * [metasploit-framework/modules/post/linux/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/linux/gather/checkvm.rb) ⭐ 39,580 | 🐛 610 | 🌐 Ruby | 📅 2026-11-13
+  * [metasploit-framework/modules/post/windows/gather/checkvm.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/gather/checkvm.rb) ⭐ 39,580 | 🐛 610 | 🌐 Ruby | 📅 2026-11-13
+  * [metasploit-framework/scripts/meterpreter/winenum.rb](https://github.com/rapid7/metasploit-framework/blob/master/scripts/meterpreter/winenum.rb#L182) ⭐ 39,580 | 🐛 610 | 🌐 Ruby | 📅 2026-11-13
+  * [metasploit-framework/modules/auxiliary/scanner/netbios/nbname.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/netbios/nbname.rb#L92) ⭐ 39,580 | 🐛 610 | 🌐 Ruby | 📅 2026-11-13
 * 🐧 | [systemd-detect-virt (man page)](https://www.freedesktop.org/software/systemd/man/latest/systemd-detect-virt.html) : `systemd-detect-virt` detects execution in a virtualized environment. It identifies the virtualization technology and can distinguish full machine virtualization from container virtualization. `systemd-detect-virt` exits with a return value of 0 (success) if a virtualization technology is detected, and non-zero (error) otherwise.
-  * See also `systemd` code [systemd/src/basic/virt.c](https://github.com/systemd/systemd/blob/main/src/basic/virt.c#L24) ⭐ 17,033 | 🐛 3,427 | 🌐 C | 📅 2026-11-13
+  * See also `systemd` code [systemd/src/basic/virt.c](https://github.com/systemd/systemd/blob/main/src/basic/virt.c#L24) ⭐ 17,035 | 🐛 3,426 | 🌐 C | 📅 2026-11-14
 
 <p align="center"><a href="#contents"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -279,4 +279,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
