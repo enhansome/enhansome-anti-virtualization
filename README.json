@@ -130,7 +130,7 @@
             "open_issues": 42,
             "owner": "ayoubfaouzi",
             "repo": "al-khaser",
-            "stars": 7202,
+            "stars": 7203,
             "topics": [
               "anti-analysis",
               "anti-debugging",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "PicoJr",
             "repo": "inside-vm",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "anti-vm",
               "detect",
@@ -581,11 +581,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T15:00:56Z",
-                "open_issues": 609,
+                "last_commit": "2026-11-26T17:52:39Z",
+                "open_issues": 601,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39669,
+                "stars": 39680,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -604,11 +604,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T15:00:56Z",
-                "open_issues": 609,
+                "last_commit": "2026-11-26T17:52:39Z",
+                "open_issues": 601,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39669,
+                "stars": 39680,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -627,11 +627,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T15:00:56Z",
-                "open_issues": 609,
+                "last_commit": "2026-11-26T17:52:39Z",
+                "open_issues": 601,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39669,
+                "stars": 39680,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -650,11 +650,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T15:00:56Z",
-                "open_issues": 609,
+                "last_commit": "2026-11-26T17:52:39Z",
+                "open_issues": 601,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39669,
+                "stars": 39680,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -680,11 +680,11 @@
                 "id": 32873313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-25T23:09:43Z",
-                "open_issues": 3393,
+                "last_commit": "2026-11-26T23:09:17Z",
+                "open_issues": 3391,
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 17063,
+                "stars": 17066,
                 "topics": [
                   "c",
                   "init",
@@ -5497,7 +5497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:22:09.535Z",
+    "last_updated": "2026-11-26T23:21:17.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to anti virtualization techniques",
